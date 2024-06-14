@@ -1,8 +1,16 @@
 # 👋 Olá eu sou o Vinicius! 😄
 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5516991000062)](https://wa.me/5516991000062)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seu-usuario)](https://github.com/seu-usuario)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seu-perfil-linkedin)](https://www.linkedin.com/in/seu-perfil-linkedin)
+<p align="center">
+  <a href="https://wa.me/5516991000062" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -27,4 +35,3 @@ Esse perfil abriga vários repositórios com projetos pessoais e também criados
 Durante toda minha formação acadêmica eu ficava muito chateado quando precisava produzir algo e isso ficava em alguma pasta em meu computador. Então, tive a ideia de compartilhar conteúdo e criei esse hobby de postar e organizar tudo que eu produzo dentro do meu website e do meu github.
 
 Clique e acesse o [ComputerScienceMaster](https://github.com/ComputerScienceMaster).
-
