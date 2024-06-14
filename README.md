@@ -21,4 +21,4 @@ Sou desenvolvedor de sistemas, formado como técnico e atualmente estudando Tecn
 
 Esse perfil abriga vários repositórios com projetos em que desenvolvi durante meu périodo de ensino técnico e graduação superior.
 
-- [https://github.com/Gaban03/Secure-Locker] - Esse projeto se consiste na automatização de trancas dos armários de alunos, onde foram implementadas tecnologias como RFID e Biometria Digital. Também inclui o desenvolvimento de um software para o cadastro dos alunos aos armários, permitindo acesso através de um cartão RFID único e biometria digital.
+- https://github.com/Gaban03/Secure-Locker - Automação das trancas de armários escolares utilizando RFID e biometria digital. Desenvolvi um software para cadastro de alunos, permitindo acesso via cartão RFID e biometria aos armários. Utilizei Java, JavaScript, HTML, CSS, Bootstrap e Spring Framework neste projeto.
