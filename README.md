@@ -1,15 +1,13 @@
 # 👋 Olá eu sou o Vinicius! 😄
 
 <p align="center">
-  <a href="https://wa.me/5516991000062" target="_blank">
+  <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
-  <br><br>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/seu-usuario" target="_blank" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
