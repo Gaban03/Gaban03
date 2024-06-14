@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de sistemas, tenho formação técnica em desenvolvmento de sistemas e, atualmente estou estudando Tecnólogo em Análise e Desenvolvimento de SistemasAmo programação e tenho experiência com Java, um pouco de C++, JavaScript, HTML, CSS, React e frameworks como Spring, Bootstrap e Angular. Também tenho conhecimento em bancos de dados relacionais, como MySQL, e na linguagem SQL. Também me aventurei na área de automação, trabalhando com tecnologias como RFID, biometria digital e o microcontrolador ESP32 WROOM 32D. Gosto de participar de projetos inovadores que trazem benefícios para o nosso dia a dia. No momento, estou procurando uma oportunidade de trabalho para aplicar e expandir meus conhecimentos em programação e automação. Estou sempre disposto a aprender e contribuir com projetos que façam a diferença.
+Sou desenvolvedor de sistemas, tenho formação técnica em desenvolvimento de sistemas e, atualmente estou estudando Tecnólogo em Análise e Desenvolvimento de Sistemas. Amo programação e tenho experiência com Java, um pouco de C++, JavaScript, HTML, CSS, React e frameworks como Spring, Bootstrap e Angular. Também tenho conhecimento em bancos de dados relacionais, como MySQL, e na linguagem SQL. Também me aventurei na área de automação, trabalhando com tecnologias como RFID, biometria digital e o microcontrolador ESP32 WROOM 32D. Gosto de participar de projetos inovadores que trazem benefícios para o nosso dia a dia. No momento, estou procurando uma oportunidade de trabalho para aplicar e expandir meus conhecimentos em programação e automação. Estou sempre disposto a aprender e contribuir com projetos que façam a diferença.
 
 ---
 
