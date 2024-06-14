@@ -1,6 +1,6 @@
 # 👋 Olá eu sou o Vinicius! 😄
 
-<p align="center">
+<p align="left">
   <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
