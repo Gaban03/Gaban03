@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de softwares e pesquisador da área de ciência da computação. Na área acadêmica trilhei a graduação, mestrado e doutorado todos dentro da grande área da Engenharia de Software e atuando em soluções para otimizar processos que atualmente custosos (Revisão Sistemática da Literatura). Minha grande paixão é a tecnologia e durante toda minha carreira me envolvi com diferentes tipos de projetos dentre eles projetos de desenvolvimento web principalmente Java e microsserviços. No entanto atuo como instrutor e tenho conhecimento em diversas linguagens como Python, PHP, Javascript, além disso, tenho explorado diversos tópicos como Inteligência Artificial, ciência de dados, processamento de linguagem natural, recursos de núvem (Google e Azure).
+Sou desenvolvedor de sistemas, formado como técnico e atualmente estudando Tecnólogo em Análise e Desenvolvimento de Sistemas. Amo programação e tenho experiência com Java, JavaScript, HTML, CSS, React e frameworks como Spring, Bootstrap e Angular. Também me aventurei um pouco na área de automação, trabalhando com tecnologias como RFID e biometria digital. Gosto de participar de projetos inovadores que trazem benefícios para o nosso dia a dia. No momento, estou procurando uma oportunidade de trabalho para aplicar e expandir meus conhecimentos em programação e automação. Estou sempre disposto a aprender e contribuir com projetos que façam a diferença.
 
 ---
 
