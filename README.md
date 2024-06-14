@@ -4,9 +4,6 @@
   <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/Gaban03" target="_blank" style="margin: 0 10px; display: inline-block;">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
