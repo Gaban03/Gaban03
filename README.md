@@ -19,8 +19,6 @@ Sou desenvolvedor de sistemas, formado como técnico e atualmente estudando Tecn
 
 ## Repositórios
 
-Esse perfil abriga vários repositórios com projetos pessoais e também criados no contexto das organizações que trabalho/trabalhei. Além disso, também possuo 3 organizações diferentes que gerencio aqui no GitHub, cada uma delas tem uma finalidade diferente (educacional/pesquisa).
+Esse perfil abriga vários repositórios com projetos em que desenvolvi durante meu périodo de ensino técnico e graduação superior.
 
-- [ComputerScienceMaster](https://github.com/ComputerScienceMaster) - Organização referente a um projeto de ensino de computação iniciado em 2016 que conta com vários artigos relacionado ao desenvolvimento de software, principalmente do desenvolvimento de aplicações web. Atualmente esse projeto conta com mais de 16k de visualizações mensais e está em constante atualização;
-- [csm-applications](https://github.com/csm-applications) - Essa organização possui diversas aplicações desenvolvidas no âmbito acadêmico usando diversas tecnologias, incluindo Java (springboot), PHP, Python e Mobile (Java Native);
-- [CSM-Research](https://github.com/CSM-Research) - Essa organização possui replication kits documentados para facilitar o acesso aos dados de estudos científicos conduzidos durante meu mestrado e doutorado.
+- [Secure-Lockers]([https://github.com/csm-applications](https://github.com/Gaban03/Secure-Locker)) - Esse projeto se consiste na automatização de trancas dos armários de alunos, onde foram implementadas tecnologias como RFID e Biometria Digital. Também inclui o desenvolvimento de um software para o cadastro dos alunos aos armários, permitindo acesso através de um cartão RFID único e biometria digital.
