@@ -1,4 +1,4 @@
-# 👋 Olá eu sou o Vinicius! 😄
+# 👋 Olá eu sou o Vinicius Gaban! 😄
 
 <p align="left">
   <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
