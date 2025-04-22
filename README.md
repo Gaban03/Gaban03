@@ -1,4 +1,4 @@
-[EN] 👋 Hello, I'm Vinicius! 😄
+## [EN] 👋 Hello, I'm Vinicius! 😄
 
 ---
 
@@ -33,7 +33,7 @@ Most recently, I developed a **quality control system** for **Volkswagen de São
 
 ---
 
-[PT/BR] 👋 Olá, eu sou o Vinicius! 😄
+## [PT/BR] 👋 Olá, eu sou o Vinicius! 😄
 
 ---
 
