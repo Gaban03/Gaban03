@@ -1,4 +1,4 @@
-## [EN] 👋 Hello, I'm Vinicius! 😄
+<h1> [EN] 👋 Hello, I'm Vinicius! 😄 </h1>
 
 <p align="left">
   <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
@@ -31,7 +31,7 @@ Most recently, I developed a **quality control system** for **Volkswagen de São
 
 ---
 
-## [PT/BR] 👋 Olá, eu sou o Vinicius! 😄
+<h1> [PT/BR] 👋 Olá, eu sou o Vinicius! 😄 </h1>
 
 <p align="left">
   <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
