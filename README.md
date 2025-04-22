@@ -31,8 +31,6 @@ Most recently, I developed a **quality control system** for **Volkswagen de São
 - [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) - Reservation management system for a guesthouse, with an **AI** in **Python** that analyzes guest feedback.
 - [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) - Web interface for controlling a CNC machine using a **virtual joystick**, with **Node-RED** for communication and data management.
 
----
-
 <div style="border-top: 4px solid #000000;"></div>
 
 ---
@@ -70,5 +68,4 @@ Recentemente, concluí o projeto **EQS MOTORES** para a **Volkswagen de São Car
 - [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) - Sistema de **gerenciamento de reservas** para uma pousada, com **IA** em **Python** para análise de feedbacks dos hóspedes.
 - [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) - Interface web para controle de máquina CNC utilizando **joystick virtual**, com **Node-RED** para comunicação e gestão de dados.
 
----
 
