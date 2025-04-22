@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 I am a **Software Developer** with a **technical background in Systems Development** and currently pursuing a **Technologist degree in Systems Analysis and Development**. Over the course of my education, I have gained a strong theoretical and practical foundation, enabling me to work with various technologies and programming languages.
@@ -45,8 +43,6 @@ Most recently, I developed a **quality control system** for **Volkswagen de São
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 ## Sobre mim
 
