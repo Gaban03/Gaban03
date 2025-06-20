@@ -1,113 +1,111 @@
-<h1 align="center">[EN] 👋 Hello, I'm Vinicius! 😄</h1>
+<h1 align="left">[EN] 👋 Hello, I'm Vinicius! 😄</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://wa.me/5516991000062" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🚀 Technologies I work with
+## 🚀 Technologies I Work With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dapper-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-6E4C13?style=for-the-badge&labelColor=8E44AD&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdo... (truncado)" alt="Dapper" />
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
 ---
 
 ## 📌 About Me
 
-I’m a **Software Developer** with a strong technical background in systems development and currently pursuing a **Technologist degree in Systems Analysis and Development**.
+I’m a **Software Developer** with a strong technical background and currently pursuing a **Technologist degree in Systems Analysis and Development**.
 
-I have experience with:
-- Programming Languages: **C#**, **Java**, **C++**, **JavaScript**, **Dart**
-- Frontend: **React**, **HTML/CSS**, **Bootstrap**
-- Backend & Mobile: **ASP.NET**, **Flutter**, **Spring**
-- Databases: **SQL Server**, **SQLite**, **MySQL**
-- Tools: **Git**, **Docker**, **Visual Studio**, **VS Code**
-- Other: **RFID**, **ESP32**, **Biometrics**, **IoT**, **Chatbots (Rasa + Python)**
+Main skills:
+- Languages: **C#**, **Java**, **C++**, **Dart**, **JavaScript**
+- Frameworks: **ASP.NET**, **Spring**, **Flutter**, **Blazor**
+- DBs: **SQL Server**, **MySQL**, **SQLite**
+- Tools: **Visual Studio**, **VS Code**, **Git**, **Docker**
+- Others: **Entity Framework**, **Dapper**, **RFID**, **ESP32**, **IoT**, **Rasa**
 
-Currently working at **C3 Automação e Tecnologia**, where I build mobile apps in **Flutter**, backend systems in **C#** using **WiseJ** and **ASP.NET**, and manage data with **SQL Server** and **SQLite**.
+Currently at **C3 Automação e Tecnologia**, developing mobile apps in **Flutter**, backend APIs with **C#** + **ASP.NET**, and managing databases using **SQL Server** and **SQLite**.
 
-Most recent highlight: A **quality control system** for **Volkswagen de São Carlos** (EQS Motores), integrating failure tracking across motors and machining, with both web and mobile platforms.
+**Latest Highlight**: Quality control system for **Volkswagen São Carlos**, part of the **EQS Motores** project.
 
 ---
 
 ## 💼 Projects
 
-- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Automated school locker system with **RFID**, **Biometrics**, and **ESP32**.
-- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Reservation system with **Python AI** to analyze guest feedback.
-- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – CNC control interface using a **virtual joystick** and **Node-RED**.
+- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Automated locker system with **RFID**, **Biometrics**, and **ESP32**.
+- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Reservation system with **AI (Python)** for feedback analysis.
+- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – CNC control interface using **Node-RED** and **virtual joystick**.
 
 ---
 
-<h1 align="center">[PT/BR] 👋 Olá, eu sou o Vinicius! 😄</h1>
+<h1 align="left">[PT/BR] 👋 Olá, eu sou o Vinicius! 😄</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://wa.me/5516991000062" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que uso
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dapper-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-6E4C13?style=for-the-badge&labelColor=8E44AD&logo=data:image/svg+xml;base64,...(truncado)" alt="Dapper" />
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
 ---
 
-## 📌 Sobre Mim
+## 📌 Sobre mim
 
-Sou **Desenvolvedor de Sistemas**, com formação técnica em desenvolvimento e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+Sou **Desenvolvedor de Sistemas**, cursando **Análise e Desenvolvimento de Sistemas**.
 
 Trabalho com:
 - Linguagens: **C#**, **Java**, **C++**, **Dart**, **JavaScript**
-- Frontend: **React**, **HTML/CSS**, **Bootstrap**
-- Backend/Mobile: **Flutter**, **ASP.NET**, **Spring**
-- Banco de Dados: **SQL Server**, **MySQL**, **SQLite**
-- Ferramentas: **Git**, **Docker**, **VS Code**, **Visual Studio**
-- Outros: **RFID**, **ESP32**, **Biometria**, **IoT**, **Chatbots com Rasa**
+- Frameworks: **ASP.NET**, **Flutter**, **Blazor**, **Spring**
+- Bancos de dados: **SQL Server**, **MySQL**, **SQLite**
+- Ferramentas: **Visual Studio**, **VS Code**, **Git**, **Docker**
+- Outros: **Dapper**, **Entity Framework**, **ESP32**, **IoT**, **Chatbots**
 
-Atualmente trabalho na **C3 Automação e Tecnologia**, desenvolvendo aplicações móveis com **Flutter**, back-end com **C#** e **ASP.NET**, e manipulação de dados com **SQL Server** e **SQLite**.
+Hoje, trabalho na **C3 Automação e Tecnologia**, com desenvolvimento de apps em **Flutter**, back-end com **C#** e **ASP.NET**, e bancos de dados com **SQL Server** e **SQLite**.
 
-Destaque recente: Sistema de **controle de qualidade** para a **Volkswagen de São Carlos**, com análise de falhas em motores e componentes críticos da produção.
+**Destaque recente**: Sistema de controle de qualidade para a **Volkswagen de São Carlos**.
 
 ---
 
 ## 💼 Repositórios
 
-- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Sistema de armários automatizados com **RFID**, **biometria** e **ESP32**.
-- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Sistema de reservas com **IA em Python** para análise de feedbacks.
-- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – Interface CNC com **joystick virtual** e **Node-RED**.
+- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Armários escolares automatizados com **RFID**, **biometria** e **ESP32**.
+- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Sistema de reservas com **IA em Python**.
+- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – Interface CNC com **Node-RED** e **joystick virtual**.
 
 ---
