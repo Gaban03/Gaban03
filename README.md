@@ -1,65 +1,113 @@
-<h1> [EN] 👋 Hello, I'm Vinicius! 😄 </h1>
+<h1 align="center">[EN] 👋 Hello, I'm Vinicius! 😄</h1>
 
-<p align="left">
-  <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
+<p align="center">
+  <a href="https://wa.me/5516991000062" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-## About Me
-
-I am a **Software Developer** with a **technical background in Systems Development** and currently pursuing a **Technologist degree in Systems Analysis and Development**. Over the course of my education, I have gained a strong theoretical and practical foundation, enabling me to work with various technologies and programming languages.
-
-I have hands-on experience with **Java**, **C++**, **JavaScript**, **HTML**, **CSS**, **React**, and frameworks like **Spring** and **Bootstrap**. I also gained strong expertise in **relational databases**, particularly with **MySQL** and **SQL**. A highlight of my technical journey was working on an **automation project**, integrating **RFID**, **biometric systems**, and the **ESP32 WROOM 32D microcontroller** for physical-digital systems integration.
-
-During my academic studies, I deepened my knowledge in **C#**, **Docker**, **Git**, and developed **ChatBots** using **Rasa** and **Miniconda**. I also explored **IoT** platforms like **ThingSpeak**, providing practical experience in device integration and real-time data collection. Additionally, I enhanced my skills in **software engineering**, focusing on requirements gathering, system modeling, and project analysis, with a strong emphasis on **Kanban** agile methodology.
-
-Currently, I work at **C3 Automação e Tecnologia**, where I apply my knowledge in **Dart** and **Flutter** to develop mobile applications. I also work with **SQL Server** and **SQLite** for data management across multiple company projects, and **C#** for web solutions, leveraging the **WiseJ** framework to create scalable, high-performance web applications.
-
-Most recently, I developed a **quality control system** for **Volkswagen de São Carlos** as part of the **EQS MOTORES** project. This system allows engineers to track and analyze failures in motors, machining processes, and critical production components. I implemented this system using a robust architecture, offering solutions for both **web** and **mobile** platforms, ensuring flexibility and accessibility.
-
 ---
 
-## Projects
-
-- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) - Automated school locker system using **RFID**, **biometrics**, and **ESP32 WROOM 32D**. Developed a software solution for student registration and locker access.
-- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) - Reservation management system for a guesthouse, with an **AI** in **Python** that analyzes guest feedback.
-- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) - Web interface for controlling a CNC machine using a **virtual joystick**, with **Node-RED** for communication and data management.
-
----
-
-<h1> [PT/BR] 👋 Olá, eu sou o Vinicius! 😄 </h1>
+## 🚀 Technologies I work with
 
 <p align="left">
-  <a href="https://wa.me/5516991000062" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
+
+---
+
+## 📌 About Me
+
+I’m a **Software Developer** with a strong technical background in systems development and currently pursuing a **Technologist degree in Systems Analysis and Development**.
+
+I have experience with:
+- Programming Languages: **C#**, **Java**, **C++**, **JavaScript**, **Dart**
+- Frontend: **React**, **HTML/CSS**, **Bootstrap**
+- Backend & Mobile: **ASP.NET**, **Flutter**, **Spring**
+- Databases: **SQL Server**, **SQLite**, **MySQL**
+- Tools: **Git**, **Docker**, **Visual Studio**, **VS Code**
+- Other: **RFID**, **ESP32**, **Biometrics**, **IoT**, **Chatbots (Rasa + Python)**
+
+Currently working at **C3 Automação e Tecnologia**, where I build mobile apps in **Flutter**, backend systems in **C#** using **WiseJ** and **ASP.NET**, and manage data with **SQL Server** and **SQLite**.
+
+Most recent highlight: A **quality control system** for **Volkswagen de São Carlos** (EQS Motores), integrating failure tracking across motors and machining, with both web and mobile platforms.
+
+---
+
+## 💼 Projects
+
+- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Automated school locker system with **RFID**, **Biometrics**, and **ESP32**.
+- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Reservation system with **Python AI** to analyze guest feedback.
+- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – CNC control interface using a **virtual joystick** and **Node-RED**.
+
+---
+
+<h1 align="center">[PT/BR] 👋 Olá, eu sou o Vinicius! 😄</h1>
+
+<p align="center">
+  <a href="https://wa.me/5516991000062" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank" style="margin: 0 10px; display: inline-block;">
+  <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-## Sobre mim
+---
 
-Sou **Desenvolvedor de Sistemas** com **formação técnica em Desenvolvimento de Sistemas** e atualmente cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**. Ao longo da minha formação, adquiri uma base sólida tanto teórica quanto prática, o que me permitiu trabalhar com diversas tecnologias e linguagens de programação.
+## 🚀 Tecnologias que utilizo
 
-Tenho experiência com **Java**, **C++**, **JavaScript**, **HTML**, **CSS**, **React** e frameworks como **Spring** e **Bootstrap**. Também desenvolvi forte conhecimento em **bancos de dados relacionais**, com ênfase em **MySQL** e **SQL**. Um marco importante dessa jornada foi minha participação em um projeto de **automação**, no qual integrei **RFID**, **biometria digital** e o microcontrolador **ESP32 WROOM 32D**, criando soluções digitais para sistemas físicos.
-
-Na faculdade, aprofundei meus conhecimentos em **C#**, **Docker**, **Git**, e desenvolvi **ChatBots** com **Rasa** e **Miniconda**. Explorei também plataformas **IoT** como **ThingSpeak**, que me proporcionaram experiência prática na integração de dispositivos e coleta de dados em tempo real. Além disso, refinei minhas competências em **engenharia de software**, com foco em levantamento de requisitos, modelagem de sistemas e adoção de metodologias ágeis como **Kanban**.
-
-Atualmente, trabalho na **C3 Automação e Tecnologia**, onde aplico meus conhecimentos em **Dart** e **Flutter** para desenvolver aplicativos móveis. Também utilizo **SQL Server** e **SQLite** para o gerenciamento de dados em diversos projetos, além de trabalhar com **C#** no desenvolvimento de soluções web, utilizando o framework **WiseJ** para criar aplicações escaláveis e de alto desempenho.
-
-Recentemente, concluí o projeto **EQS MOTORES** para a **Volkswagen de São Carlos**, no qual desenvolvi e implementei um **sistema de controle de qualidade**. O sistema facilita o registro, acompanhamento e análise de falhas em motores, processos de usinagem e outros componentes críticos na linha de produção. Utilizei uma arquitetura robusta para garantir soluções tanto para **web** quanto para **mobile**, com foco em acessibilidade e flexibilidade.
+<p align="left">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-2C3E50?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
 
 ---
 
-## Repositórios
+## 📌 Sobre Mim
 
-- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) - Sistema automatizado de trancas de armários escolares com **RFID**, **biometria digital** e o microcontrolador **ESP32 WROOM 32D**. Desenvolvi o software para cadastro de alunos e acesso aos armários.
-- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) - Sistema de **gerenciamento de reservas** para uma pousada, com **IA** em **Python** para análise de feedbacks dos hóspedes.
-- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) - Interface web para controle de máquina CNC utilizando **joystick virtual**, com **Node-RED** para comunicação e gestão de dados.
+Sou **Desenvolvedor de Sistemas**, com formação técnica em desenvolvimento e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 
+Trabalho com:
+- Linguagens: **C#**, **Java**, **C++**, **Dart**, **JavaScript**
+- Frontend: **React**, **HTML/CSS**, **Bootstrap**
+- Backend/Mobile: **Flutter**, **ASP.NET**, **Spring**
+- Banco de Dados: **SQL Server**, **MySQL**, **SQLite**
+- Ferramentas: **Git**, **Docker**, **VS Code**, **Visual Studio**
+- Outros: **RFID**, **ESP32**, **Biometria**, **IoT**, **Chatbots com Rasa**
 
+Atualmente trabalho na **C3 Automação e Tecnologia**, desenvolvendo aplicações móveis com **Flutter**, back-end com **C#** e **ASP.NET**, e manipulação de dados com **SQL Server** e **SQLite**.
+
+Destaque recente: Sistema de **controle de qualidade** para a **Volkswagen de São Carlos**, com análise de falhas em motores e componentes críticos da produção.
+
+---
+
+## 💼 Repositórios
+
+- [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Sistema de armários automatizados com **RFID**, **biometria** e **ESP32**.
+- [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Sistema de reservas com **IA em Python** para análise de feedbacks.
+- [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – Interface CNC com **joystick virtual** e **Node-RED**.
+
+---
