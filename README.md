@@ -54,6 +54,13 @@ Currently at **C3 Automação e Tecnologia**, developing mobile apps in **Flutte
 
 ---
 
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaban03&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaban03&layout=compact&theme=dark)
+
+---
+
 <h1 align="left">[PT/BR] 👋 Olá, eu sou o Vinicius! 😄</h1>
 
 <p align="left">
