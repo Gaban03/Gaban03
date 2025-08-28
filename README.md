@@ -114,3 +114,12 @@ Hoje, trabalho na **C3 Automação e Tecnologia**, com desenvolvimento de apps e
 - [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Armários escolares automatizados com **RFID**, **biometria** e **ESP32**.
 - [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Sistema de reservas com **IA em Python**.
 - [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – Interface CNC com **Node-RED** e **joystick virtual**.
+
+---
+
+  ## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaban03&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaban03&layout=compact&theme=dark)
+
+---
