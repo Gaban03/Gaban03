@@ -18,7 +18,7 @@
 [![Markup](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,blazor,spring)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,spring)](https://skillicons.dev)
 
 ### 🗄️ Databases  
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,azure)](https://skillicons.dev)
