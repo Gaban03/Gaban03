@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 About Me / Sobre mim  
+## 📌 About Me
 
 <details open>
   <summary>🇺🇸 English</summary>
