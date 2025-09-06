@@ -56,7 +56,7 @@ Currently at **C3 Automação e Tecnologia**, developing mobile apps in **Flutte
 
 ## 🚀 Tecnologias que uso
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,dart,flutter,vscode,azure,figma,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,dart,flutter,androidstudio,vscode,react,azure,docker,figma,git,html,css,js,bootstrap,mysql,java,hibernate,spring)](https://skillicons.dev)
 
 ---
 
