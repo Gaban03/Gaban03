@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Technologies I Work With
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,dart,flutter,vscode,azure,figma,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,dart,flutter,androidstudio,vscode,react,azure,docker,figma,git,html,css,js,bootstrap,mysql,java,hibernate,spring)](https://skillicons.dev)
 
 ---
 
@@ -38,13 +38,6 @@ Currently at **C3 Automação e Tecnologia**, developing mobile apps in **Flutte
 - [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Automated locker system with **RFID**, **Biometrics**, and **ESP32**.
 - [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Reservation system with **AI (Python)** for feedback analysis.
 - [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – CNC control interface using **Node-RED** and **virtual joystick**.
-
----
-
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaban03&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaban03&layout=compact&theme=dark)
 
 ---
 
