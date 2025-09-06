@@ -1,33 +1,14 @@
-<h1 align="center">👋 Hello, I'm Vinicius Gaban! 😄</h1>
-<h3 align="center">Full-Stack Software Developer</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#4CAF50">Vinicius Gaban</span> 😄</h1>
+<h3 align="center">💻 Full-Stack Software Developer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vinicius.gaban.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🚀 Tech Stack  
-
-### 💻 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=cs,java,dart,js,cpp)](https://skillicons.dev)
-
-### 🎨 Markup & Styling  
-[![Markup](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
-
-### ⚙️ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,spring)](https://skillicons.dev)
-
-### 🗄️ Databases  
-[![Databases](https://skillicons.dev/icons?i=sqlserver,mysql,sqlite)](https://skillicons.dev)
-
-### ☁️ Cloud & DevOps  
-[![Cloud](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
-
-### 🛠️ Tools & Design  
-[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,figma)](https://skillicons.dev)
 
 ---
 
@@ -56,6 +37,28 @@ O que me motiva na programação é justamente a sua complexidade: no início pa
 Meu objetivo é **crescer como desenvolvedor e na minha carreira**, contribuindo com soluções de impacto e evoluindo continuamente minhas habilidades.  
 
 </details>
+
+---
+
+## 🚀 Tech Stack  
+
+### 💻 Programming Languages  
+[![Languages](https://skillicons.dev/icons?i=cs,java,dart,js,cpp)](https://skillicons.dev)
+
+### 🎨 Markup & Styling  
+[![Markup](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+
+### ⚙️ Frameworks & Libraries  
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,blazor,flutter,react,spring)](https://skillicons.dev)
+
+### 🗄️ Databases  
+[![Databases](https://skillicons.dev/icons?i=sqlserver,mysql,sqlite)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps  
+[![Cloud](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
+
+### 🛠️ Tools & Design  
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,git,figma)](https://skillicons.dev)
 
 ---
 
