@@ -2,7 +2,9 @@
 <h3 align="center">Software Developer | Mobile & Backend | IoT Enthusiast</h3>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vinicius-gaban/)
+  <a href="(https://www.linkedin.com/in/vinicius-gaban/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
