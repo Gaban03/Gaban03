@@ -12,10 +12,13 @@
 ## 🚀 Tech Stack  
 
 ### 💻 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=cs,java,dart,js,cpp,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,java,dart,js,cpp)](https://skillicons.dev)
+
+### 🎨 Markup & Styling  
+[![Markup](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,blazor,spring,bootstrap)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,blazor,spring)](https://skillicons.dev)
 
 ### 🗄️ Databases  
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,azure)](https://skillicons.dev)
