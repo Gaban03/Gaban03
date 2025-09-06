@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:vinicius.gaban.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Gaban03" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
@@ -49,10 +49,10 @@ Meu objetivo é **crescer como desenvolvedor e na minha carreira**, contribuindo
 [![Markup](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries  
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,blazor,flutter,react,spring)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,flutter,react,spring)](https://skillicons.dev)
 
 ### 🗄️ Databases  
-[![Databases](https://skillicons.dev/icons?i=sqlserver,mysql,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps  
 [![Cloud](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
