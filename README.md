@@ -43,7 +43,7 @@ Meu objetivo é **crescer como desenvolvedor e na minha carreira**, contribuindo
 ## 🚀 Tech Stack  
 
 ### 💻 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=cs,java,dart,js,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,java,dart,js)](https://skillicons.dev)
 
 ### 🎨 Markup & Styling  
 [![Markup](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
